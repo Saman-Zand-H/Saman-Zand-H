@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saman-zand-h&label=Profile%20views&color=0e75b6&style=flat" alt="safasafari" /> </p> -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Reach me out:</h3>
 <p align="left">
 <a href="mailto:tnsperuse@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="SafaSafari3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saman-zand-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SafaSafari" height="30" width="40" /></a>
@@ -38,10 +38,10 @@
 <a href="https://typescript.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
 <a href="https://selenium.dev" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" /></a>
 <a href="https://getboostrap.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /></a>
-<a href="elastic.co" target="blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="elasticsearch"></a>
-<a href="alogolia.com" target="blank"><img src="https://www.vectorlogo.zone/logos/algolia/algolia-icon.svg" width="40" height="40" alt="algolia"></a>
-<a href="rabbitmq.com" target="blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40" alt="rabbitmq"></a>
-<a href="redis.io" target="blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="algolia"></a>
+<a href="https://elastic.co" target="blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40" alt="elasticsearch"></a>
+<a href="https://alogolia.com" target="blank"><img src="https://www.vectorlogo.zone/logos/algolia/algolia-icon.svg" width="40" height="40" alt="algolia"></a>
+<a href="https://rabbitmq.com" target="blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40" alt="rabbitmq"></a>
+<a href="https://redis.io" target="blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="algolia"></a>
 <a href="https://aws.amazon.com" target="blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="redis" width="40" height="40" /></a>
 <a href="https://vee-validate.logaretm.com/v4" target="blank"><img src="https://vee-validate.logaretm.com/v4/logo.png" alt="vee-validate" width="40" height="40" /></a>
 <a href="https://plotly.com" target="blank"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40" /></a>

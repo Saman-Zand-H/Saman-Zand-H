@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Saman Zand 👋</h1>
 
 - ⚡  Full-Stack dev.
-- :eight_pointed_black_star:  I have +4 years of experience using Django / BeautifulSoup.
+- :eight_pointed_black_star:  I have +4 years of experience using Python / Django.
 - :eight_spoked_asterisk:  I have +1 year of experience using Vuejs.
 - 💻  I have experience in Python / SQL / Javascript / TypeScript.
 

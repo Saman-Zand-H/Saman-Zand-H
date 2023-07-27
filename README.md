@@ -2,7 +2,7 @@
 
 - ⚡  Full-Stack dev.
 - :eight_pointed_black_star:  I have +4 years of experience using Python / Django.
-- :eight_spoked_asterisk:  I have +1 year of experience using Vuejs.
+- :eight_spoked_asterisk:  I have 1 year of experience using Vuejs.
 - 💻  I have experience in Python / SQL / Javascript / TypeScript.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saman-zand-h&label=Profile%20views&color=0e75b6&style=flat" alt="safasafari" /> </p> -->

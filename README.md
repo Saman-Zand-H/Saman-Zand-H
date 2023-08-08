@@ -5,15 +5,14 @@
 - :eight_spoked_asterisk:  I have 1 year of experience using Vuejs.
 - 💻  I have experience in Python / SQL / Javascript / TypeScript.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saman-zand-h&label=Profile%20views&color=0e75b6&style=flat" alt="safasafari" /> </p> -->
 
 <h3 align="left">Reach me out:</h3>
 <p align="left">
-<a href="mailto:tnsperuse@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="SafaSafari3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saman-zand-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SafaSafari" height="30" width="40" /></a>
-<a href="https://instagram.com/t.n.saman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SafaSafari.ss" height="30" width="40" /></a>
-<a href="https://github.com/saman-zand-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SafaSafari" height="30" width="40" /></a>
-<a href="https://t.me/RobSaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="SafaSafari" height="30" width="40" /></a>
+<a href="mailto:tnsperuse@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="gmail_logo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saman-zand-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_logo" height="30" width="40" /></a>
+<a href="https://instagram.com/t.n.saman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_logo" height="30" width="40" /></a>
+<a href="https://github.com/saman-zand-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github_logo" height="30" width="40" /></a>
+<a href="https://t.me/RobSaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="telegram_logo" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
@@ -61,7 +60,7 @@
 [![Saman-Zand-H's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saman-zand-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SafaSafari&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=saman-zand-h&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

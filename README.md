@@ -16,7 +16,7 @@
 <a href="https://t.me/RobSaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="SafaSafari" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# 💻 Tech Stack:
 <p align="left">
 <a href="https://djangoproject.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /></a>
 <a href="https://docker.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40" /></a>
@@ -47,14 +47,21 @@
 <a href="https://plotly.com" target="blank"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40" /></a>
 <a href="https://chartjs.org" target="blank"><img src="https://chartjs.org/docs/latest/favicon.ico" alt="chartjs" width="40" height="40" /></a>
 <a href="https://jquery.com" target="blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40" /></a>
+<a href="https://nginx.com" target="blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" /></a>
 <a href="https://scss-lang.com" target="blank"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="40" height="40" /></a>
-<a href="https://html.com" target="blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40" /></a>
+<a href="https://markdownguild.org" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" /></a>
 <a href="https://numpy.org" target="blank"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40" /></a>
 </p>
 
+# 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saman-zand-h&show_icons=true&theme=dark&locale=en&layout=compact" alt="Saman-Zand-H" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saman-zand-h&theme=dark" alt="Saman-Zand-H" /></p>
 
 [![Saman-Zand-H's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saman-zand-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SafaSafari&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

@@ -57,10 +57,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saman-zand-h&theme=dark" alt="Saman-Zand-H" /></p>
 
-[![Saman-Zand-H's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saman-zand-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=saman-zand-h&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+[![Saman-Zand-H's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saman-zand-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)=
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

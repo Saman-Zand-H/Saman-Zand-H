@@ -16,7 +16,7 @@
 </p>
 
 # 💻 Tech Stack:
-<p align="left">
+<p align="center">
 <a href="https://djangoproject.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /></a>
 <a href="https://docker.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40" /></a>
 <a href="https://flask.palletsprojects.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" /></a>
@@ -33,7 +33,6 @@
 <a href="https://vuetifyjs.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40" /></a>
 <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a> 
 <a href="https://pytest.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40" /></a>  
-  
 <a href="https://typescript.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
 <a href="https://selenium.dev" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" /></a>
 <a href="https://getboostrap.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" /></a>

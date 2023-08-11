@@ -53,7 +53,7 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saman-zand-h&show_icons=true&theme=dark&locale=en&layout=compact" alt="Saman-Zand-H" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saman-zand-h&show_icons=true&theme=dark&locale=en&layout=compact" alt="Saman-Zand-H" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saman-zand-h&theme=dark" alt="Saman-Zand-H" />
 </p>
 

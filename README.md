@@ -7,7 +7,7 @@
 
 
 <h3 align="left">Reach me out:</h3>
-<p align="left">
+<p align="center">
 <a href="mailto:tnsperuse@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="gmail_logo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saman-zand-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_logo" height="30" width="40" /></a>
 <a href="https://instagram.com/t.n.saman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram_logo" height="30" width="40" /></a>
@@ -57,7 +57,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saman-zand-h&theme=dark" alt="Saman-Zand-H" /></p>
 
-[![Saman-Zand-H's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saman-zand-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)=
+[![Saman-Zand-H's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saman-zand-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

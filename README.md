@@ -52,9 +52,10 @@
 </p>
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saman-zand-h&show_icons=true&theme=dark&locale=en&layout=compact" alt="Saman-Zand-H" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saman-zand-h&theme=dark" alt="Saman-Zand-H" /></p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saman-zand-h&show_icons=true&theme=dark&locale=en&layout=compact" alt="Saman-Zand-H" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saman-zand-h&theme=dark" alt="Saman-Zand-H" />
+</p>
 
 [![Saman-Zand-H's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saman-zand-h&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

@@ -1,12 +1,12 @@
 <h1 align="center">Hi I'm Saman Zand 👋</h1>
 
 - ⚡  Full-Stack developer.
-- :eight_pointed_black_star:  I have 4 years of experience using Python / Django.
-- :eight_spoked_asterisk:  I have 1 year of experience using Vuejs.
-- 💻  I have experience in Python / SQL / Javascript / TypeScript.
+- :eight_pointed_black_star:  I have 5+ years of experience using Python / Django.
+- :eight_spoked_asterisk:  I have 1+ year of experience using Vuejs.
+- 💻  I have experience in Python / SQL / Javascript / TypeScript / LaTeX / Linux.
 
 
-<h3 align="left">Reach me out:</h3>
+<h3 align="left">Reach out to me:</h3>
 <p align="center">
 <a href="mailto:tnsperuse@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="gmail_logo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saman-zand-h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin_logo" height="30" width="40" /></a>
@@ -27,8 +27,10 @@
 <a href="https://javascript.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
 <a href="https://postman.com" target="blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
 <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-<a href="https://tailwindcss.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" /></a>
+<a href="https://react.dev" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react-js" width="40" height="40" /></a>
+<a href="https://tailwindcss.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /></a>
 <a href="https://vuejs.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
+<a href="https://www.latex-project.org/" target="blank"><img src="https://raw.githubusercontent.com/file-icons/icons/blob/master/svg/LaTeX.svg" alt="LaTeX" width="40" height="40" /></a>
 <a href="https://azure.microsoft.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40" /></a>
 <a href="https://vuetifyjs.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40" /></a>
 <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a> 

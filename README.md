@@ -52,6 +52,8 @@
 <a href="https://markdownguild.org" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" /></a>
 <a href="https://graphql.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
 <a href="https://docs.celeryq.dev" target="blank"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="40" height="40" /></a>
+<a href="https://alpinejs.dev" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/alpinejs/alpinejs-original.svg" alt="alpinejs" width="40" height="40" /></a>
+<a href="https://semantic-ui.com" target="blank"><img src="https://cdn.worldvectorlogo.com/logos/semantic-ui.svg" alt="semantic-ui" width="40" height="40" /></a>
 </p>
 
 # 📊 GitHub Stats:

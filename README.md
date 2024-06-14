@@ -2,7 +2,7 @@
 
 - ⚡  Full-Stack developer.
 - :eight_pointed_black_star:  I have 5+ years of experience using Python / Django.
-- :eight_spoked_black_start:  I have 2+ years of experience using Vue.js.
+- ✴️  I have 2+ years of experience using Vue.js.
 - ✳️ I have 2+ year of experience using React.js and Three.js.
 - 💻  I have experience in Python / SQL / Javascript / TypeScript / LaTeX / Linux.
 

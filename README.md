@@ -2,7 +2,8 @@
 
 - ⚡  Full-Stack developer.
 - :eight_pointed_black_star:  I have 5+ years of experience using Python / Django.
-- :eight_spoked_asterisk:  I have 1+ year of experience using Vuejs.
+- :eight_spoked_black_start:  I have 2+ years of experience using Vue.js.
+- ✳️ I have 2+ year of experience using React.js and Three.js.
 - 💻  I have experience in Python / SQL / Javascript / TypeScript / LaTeX / Linux.
 
 
@@ -28,6 +29,7 @@
 <a href="https://postman.com" target="blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /></a>
 <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
 <a href="https://react.dev" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react-js" width="40" height="40" /></a>
+<a href="https://threejs.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="three.js" width="40" height="40" /></a>
 <a href="https://tailwindcss.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" /></a>
 <a href="https://vuejs.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40" /></a>
 <a href="https://www.latex-project.org/" target="blank"><img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/LaTeX.svg" alt="LaTeX" width="40" height="40" /></a>
@@ -44,7 +46,7 @@
 <a href="https://redis.io" target="blank"><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="algolia"></a>
 <a href="https://aws.amazon.com" target="blank"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="redis" width="40" height="40" /></a>
 <a href="https://vee-validate.logaretm.com/v4" target="blank"><img src="https://vee-validate.logaretm.com/v4/logo.png" alt="vee-validate" width="40" height="40" /></a>
-<a href="https://plotly.com" target="blank"><img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40" /></a>
+<a href="https://plotly.com" target="blank"><img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" alt="plotly" width="40" height="40" /></a>
 <a href="https://chartjs.org" target="blank"><img src="https://chartjs.org/docs/latest/favicon.ico" alt="chartjs" width="40" height="40" /></a>
 <a href="https://jquery.com" target="blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40" /></a>
 <a href="https://nginx.com" target="blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" /></a>

@@ -52,7 +52,6 @@
 <a href="https://chartjs.org" target="blank"><img src="https://chartjs.org/docs/latest/favicon.ico" alt="chartjs" width="40" height="40" /></a>
 <a href="https://jquery.com" target="blank"><img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40" /></a>
 <a href="https://nginx.com" target="blank"><img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40" /></a>
-<a href="https://scss-lang.com" target="blank"><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="40" height="40" /></a>
 <a href="https://markdownguild.org" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40" /></a>
 <a href="https://graphql.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" /></a>
 <a href="https://docs.celeryq.dev" target="blank"><img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="40" height="40" /></a>

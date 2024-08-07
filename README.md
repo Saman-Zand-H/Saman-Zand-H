@@ -4,7 +4,7 @@
 - :eight_pointed_black_star:  I have 5+ years of experience using Python / Django.
 - ✴️  I have 2+ years of experience using Vue.js.
 - ✳️ I have 2+ year of experience using React.js and Three.js.
-- 💻  I have experience in Python / SQL / Javascript / TypeScript / LaTeX / Linux.
+- 💻  I have experience with Go / C# / SQL / JavaScript/EcmaScript / TypeScript / LaTeX / Linux.
 
 
 <h3 align="left">Reach out to me:</h3>

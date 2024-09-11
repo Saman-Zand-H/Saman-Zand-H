@@ -19,6 +19,7 @@
 <p align="center">
 <a href="https://djangoproject.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" /></a>
 <a href="https://docker.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40" /></a>
+<a href="https://fastapi.tiangolo.com" target="blank"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" /></a>
 <a href="https://flask.palletsprojects.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" /></a>
 <a href="https://digitalocean.com" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="digitalocean" width="40" height="40" /></a>
 <a href="https://git-scm.com/" target="blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>

@@ -1,12 +1,5 @@
 <h1 align="center">Hi I'm Saman Zand 👋</h1>
 
-- ⚡  Full-Stack developer.
-- :eight_pointed_black_star:  I have 5+ years of experience using Python / Django.
-- ✴️  I have 2+ years of experience using Vue.js.
-- ✳️ I have 2+ year of experience using React.js and Three.js.
-- 💻  I have experience with Go / C# / SQL / JavaScript/EcmaScript / TypeScript / LaTeX / Linux.
-
-
 <h3 align="left">Reach out to me:</h3>
 <p align="center">
 <a href="mailto:tnsperuse@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="gmail_logo" height="30" width="40" /></a>
